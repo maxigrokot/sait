@@ -1,1 +1,25 @@
-
+ <header>
+        <div class="bg-white">
+            <div class="header">
+                <div class="wrapper">
+                    <div class="header-top">
+                        <div class="logo">БАСКЕТБОЛЕР<br>Магазин баскетбольных товаров</br></div>
+                        <div class="header-bottom">
+                            <ul class="header-bottom">
+                                <li><a href="">Мячи</a></li>
+                                <li><a href="">Кроссовки</a></li>
+                                <li><a href="">Майки</a></li>
+                                <li><a href="">Шорты</a></li>
+                                <li><a href="">...</a></li>
+                            </ul>
+                        </div>
+                        <div class="header-info">
+                            <span>8(908)45-32-7798</span>
+                            <button type="button">Заказать звонок</button>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
