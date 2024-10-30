@@ -23,3 +23,12 @@
             </div>
         </div>
     </header>
+<section class="banner">
+        <div class="wrapper">
+           <h1 class:="title">Оригинальные и дешевые товары для спортсменов</h1> 
+           <p>Мы собрали настоящие вещи от лучших брендов, чтобы порадовать вас качетсвенным товаром</p>
+        </div>
+        <div class="banner-button">
+            <button type="button-1"></button>
+        </div>
+    </section>
